@@ -3,7 +3,7 @@
 
 ## Supported Versions
 
-NEXUS AI is currently maintained as an open-source project. Security updates will be provided for the latest version whenever possible.
+DEEPSCOPE is an open-source project. Security updates will be provided for the latest version whenever possible.
 
 | Version | Supported |
 |---|---|
@@ -24,12 +24,12 @@ If you discover a security vulnerability, please help us protect the project and
 
 - Never commit API keys, passwords, or access tokens.
 - Store credentials in environment variables or Streamlit Secrets.
-- Keep dependencies updated.
 - Never share your `.env` or `secrets.toml` files.
+- Keep dependencies updated.
 - Review third-party dependencies before using them.
 
 ## Scope
 
-This policy covers the NEXUS AI source code, application configuration, and project-related security concerns.
+This policy covers the DEEPSCOPE source code, application configuration, and project-related security concerns.
 
-Thank you for helping keep NEXUS AI secure.
+Thank you for helping keep DEEPSCOPE secure.
