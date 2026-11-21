@@ -42,7 +42,13 @@ Powered by **Google Gemini**, **Tavily Search**, and web-content extraction tool
 - **Modular architecture:** Individual components can be maintained and extended independently.
 
 ---
+## Workflow Diagram
+<div class="center">
+<p align="center><img src="Images/workflow.png" alt="This is the workflow diagram">
+</p>
+</div>
 
+<hr>
 ## System Architecture
 
 The system follows a sequential multi-agent pipeline where each stage contributes to the final research output.
