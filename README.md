@@ -44,9 +44,6 @@ Powered by **Google Gemini**, **Tavily Search**, and web-content extraction tool
 ---
 ## Workflow Diagram
 <hr>
-
-<h2 align="center">Workflow Diagram</h2>
-
 <div align="center">
   <img
     src="Images/Workflow%20Diagram.png"
@@ -55,9 +52,6 @@ Powered by **Google Gemini**, **Tavily Search**, and web-content extraction tool
     style="display: block; margin: 0 auto;"
   />
 </div>
-
-<hr>
-
 <hr>
 ## System Architecture
 
