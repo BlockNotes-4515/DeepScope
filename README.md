@@ -44,7 +44,7 @@ Powered by **Google Gemini**, **Tavily Search**, and web-content extraction tool
 ---
 ## Workflow Diagram
 <div class="center">
-<p align="center><img src="Images/workflow.png" alt="This is the workflow diagram">
+<p align="center><img src="Images/Workflow Diagram.png" alt="This is the workflow diagram">
 </p>
 </div>
 
