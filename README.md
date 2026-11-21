@@ -25,7 +25,7 @@
 
 ## Overview
 
-**NEXUS AI** is a multi-agent research automation system built with Python and LangChain. It uses specialized AI agents and processing chains to transform a research query into a structured, evaluated report.
+**DEEPSCOPE** is a multi-agent research automation system built with Python and LangChain. It uses specialized AI agents and processing chains to transform a research query into a structured, evaluated report.
 
 Instead of relying on a single LLM response, the system divides research into focused stages. Each stage performs a specific responsibility, allowing the complete pipeline to search the web, extract relevant information, generate a report, and evaluate the final output.
 
@@ -311,6 +311,6 @@ MCA Student · Software Engineer Aspirant · AI & Backend Development
 
 If you find this project interesting, consider giving it a star.
 
-**NEXUS AI — Research, orchestrated intelligently.**
+**DEEPSCOPE — Research, orchestrated intelligently.**
 
 </div>
