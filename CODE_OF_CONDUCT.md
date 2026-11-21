@@ -1,109 +1,56 @@
 
-# Contributing to DEEPSCOPE
+# Code of Conduct
 
-Thank you for your interest in contributing to DEEPSCOPE!
+## Our Commitment
 
-Contributions, suggestions, bug reports, and improvements are welcome. Every contribution helps make this project better.
+We are committed to providing a welcoming, respectful, inclusive, and positive environment for everyone participating in the DEEPSCOPE project.
 
-## Getting Started
+We welcome contributors regardless of their background, experience level, or technical expertise.
 
-1. Fork the repository.
-2. Clone your fork:
+## Expected Behaviour
 
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-   ```
+All community members are expected to:
 
-3. Navigate to the project directory:
+- Be respectful, professional, and constructive.
+- Welcome different perspectives and ideas.
+- Provide helpful and meaningful feedback.
+- Accept constructive criticism gracefully.
+- Focus on collaboration and learning.
+- Respect the time and contributions of others.
 
-   ```bash
-   cd YOUR-REPOSITORY
-   ```
+## Unacceptable Behaviour
 
-4. Create a virtual environment:
+The following behaviours are not acceptable:
 
-   ```bash
-   python -m venv .venv
-   ```
+- Harassment, discrimination, or personal attacks.
+- Offensive or inappropriate language.
+- Trolling, intimidation, or deliberate disruption.
+- Publishing private information without permission.
+- Any behaviour that creates an unsafe or hostile environment.
 
-5. Activate it:
+## Reporting Issues
 
-   Windows:
+If you experience or witness unacceptable behaviour, please contact the project maintainer privately through GitHub.
 
-   ```powershell
-   .\.venv\Scripts\Activate.ps1
-   ```
+Reports will be reviewed respectfully and handled as confidentially as reasonably possible.
 
-   Linux/macOS:
+## Enforcement
 
-   ```bash
-   source .venv/bin/activate
-   ```
+Project maintainers are responsible for clarifying and enforcing these standards.
 
-6. Install dependencies:
+Depending on the severity of the behaviour, actions may include:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+- A warning.
+- Removal of inappropriate comments or contributions.
+- Temporary restrictions on participation.
+- Permanent exclusion from the project.
 
-7. Configure your API keys in a local `.env` file. Never commit credentials.
+## Scope
 
-## How to Contribute
+This Code of Conduct applies to all project spaces, including GitHub issues, pull requests, discussions, and other official DEEPSCOPE community spaces.
 
-You can contribute by:
+## Final Note
 
-- Improving existing AI agents.
-- Enhancing web search and content extraction.
-- Improving research report generation.
-- Enhancing the critic and evaluation process.
-- Improving the Streamlit user interface.
-- Fixing bugs and improving performance.
-- Improving project documentation.
+Let's build, learn, and innovate together.
 
-## Development Workflow
-
-1. Create a new branch:
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-2. Make your changes.
-3. Test your changes locally.
-4. Commit your changes:
-
-   ```bash
-   git commit -m "Add: description of your changes"
-   ```
-
-5. Push your branch:
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-6. Open a Pull Request against the main branch.
-
-## Pull Request Guidelines
-
-- Explain what your changes do.
-- Include screenshots for UI changes where relevant.
-- Keep changes focused and easy to review.
-- Ensure existing functionality is not broken.
-- Never include API keys or sensitive information.
-- Update documentation when necessary.
-
-## Bug Reports and Feature Requests
-
-When reporting a bug, include:
-
-- A clear description of the issue.
-- Steps to reproduce it.
-- Expected and actual behaviour.
-- Relevant error messages or screenshots.
-
-## Code of Conduct
-
-By participating in this project, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
-
-Thank you for contributing to DEEPSCOPE!
+**Be respectful. Stay curious. Build responsibly.**
