@@ -43,10 +43,20 @@ Powered by **Google Gemini**, **Tavily Search**, and web-content extraction tool
 
 ---
 ## Workflow Diagram
-<div class="center">
-<p align="center><img src="Images/Workflow Diagram.png" alt="This is the workflow diagram">
-</p>
+<hr>
+
+<h2 align="center">Workflow Diagram</h2>
+
+<div align="center">
+  <img
+    src="Images/Workflow%20Diagram.png"
+    alt="DEEPSCOPE Multi-Agent Workflow Diagram"
+    width="850"
+    style="display: block; margin: 0 auto;"
+  />
 </div>
+
+<hr>
 
 <hr>
 ## System Architecture
